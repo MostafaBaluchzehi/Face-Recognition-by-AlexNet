@@ -1,1 +1,1 @@
-# Face-Recognition-by-CNN-AlexNet
+# Face Recognition - AlexNet
